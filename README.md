@@ -3,7 +3,7 @@ Building on our lectures about “How the Internet works”, you will create and
 
 ## Expected Outputs for this week / what to submit: 
 Listed below are links to different tutorials and resources that you can use to build your web site, including details embedding some of your previous labs! The expected output for the end of this week is a website with a few embeds, including: 
-- your KnightLab visualization (lab 1 - If you haven't created a KnightLab Storymap yet; [make one here](https://storymap.knightlab.com) or [go here to create a Timeline](https://timeline.knightlab.com/); 
+- your KnightLab visualization (lab 1 - If you haven't created a KnightLab Storymap yet; [make one here](https://storymap.knightlab.com) or [go here to create a Timeline](https://timeline.knightlab.com/)); 
 - your 311 incidents feature layer (lab 5); 
 - along with two new items that you will need to create, then embed, in your web page: a basic dataset in GeoJSON and a Google map. 
 
